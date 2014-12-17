@@ -1,4 +1,8 @@
 .DS_STORE
 .git
-node_modules/
+
 .sass-cache/
+node_modules/
+npm-debug.log
+
+config/settings.js

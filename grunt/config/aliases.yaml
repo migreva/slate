@@ -5,9 +5,13 @@ lint:
 js_on_watch:
 - 'jsbeautifier'
 - 'lint'
+- 'shell:test'
 
 pre-push:
 - 'lint'
+- 'shell:test'
 
 default:
 - 'watch'
+
+test: shell:test

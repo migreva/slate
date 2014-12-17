@@ -5,8 +5,10 @@ module.exports = {
 		],
 		js: [
 			'*.js',
+			'config/**/*.js',
 			'grunt/**/*.js',
 			'lib/**/*.js',
+			'test/**/*.js',
 		]
 	}
 };
