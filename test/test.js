@@ -4,9 +4,9 @@ var assert = require( 'chai' ).assert;
 
 // var me = require( '..' );
 
-describe( 'I', function() {
+describe( 'It', function() {
 
-	it( 'am awesome', function() {
+	it( 'is an awesome module', function() {
 		assert( true, true );
 	} );
 

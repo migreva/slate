@@ -23,6 +23,7 @@
     "mocha": "^2.0.1"
   },
   "scripts": {
+  	"start": "node lib/main.js",
     "test": "./node_modules/.bin/mocha --reporter spec test/test.js"
   },
   "license": "MIT"
