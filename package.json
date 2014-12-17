@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Clone to start.",
   "main": "lib/main.js",
-  "author": "Luke Zilioli",
+  "author": "Luke Zilioli <elzee08@gmail.com> (http://lukezilioli.com/)",
   "dependencies": {
     "lz-node-utils": "^0.1.9",
     "shelljs": "^0.3.0",
