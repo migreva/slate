@@ -6,3 +6,5 @@ node_modules/
 npm-debug.log
 
 config/settings.js
+
+lib/bower_components
